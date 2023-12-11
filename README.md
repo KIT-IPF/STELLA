@@ -1,2 +1,2 @@
-# STELLA
-obSTaclE, occLusion and visibiLity constrAins benchmark dataset
+# STELLA - obSTaclE, occLusion and visibiLity constrAins benchmark dataset
+
