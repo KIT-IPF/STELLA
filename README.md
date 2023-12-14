@@ -2,7 +2,7 @@
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/window-trajectory.png" width="400"/>](window-trajectory.png)
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/vegetation-trajectory.png" width="400"/>](vegetation-trajectory.png)
 
-We introduce a new benchmark dataset STELLA (obSTaclE, occLusion and visibiLity constrAins) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent and non-transparent obstacles. The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. Both scenarios are captured using high resolution digital camera. The images are captured in a circular trajectory and each scenario contains 125 images.
+We introduce a new benchmark dataset [STELLA](https://drive.google.com/drive/folders/1eYkUXY6tKA08b9FMoWVC-mj5Zl4VFN_t?usp=sharing) (obSTaclE, occLusion and visibiLity constrAins) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent and non-transparent obstacles. The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. Both scenarios are captured using high resolution digital camera. The images are captured in a circular trajectory and each scenario contains 125 images.
 
 [Video](https://github.com/sqirrel3/STELLA/blob/main/imgs/animation.mp4)
 
