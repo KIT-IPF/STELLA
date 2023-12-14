@@ -1,7 +1,7 @@
 # STELLA - obSTaclE, occLusion and visibiLity constrAins benchmark dataset
 ![](https://github.com/sqirrel3/STELLA/blob/main/imgs/window-trajectory.png)
 ![](https://github.com/sqirrel3/STELLA/blob/main/imgs/vegetation-trajectory.png)
-[<img src="image.png" width="250"/>]([image.png](https://github.com/sqirrel3/STELLA/blob/main/imgs/vegetation-trajectory.png))
+[<img src="[image.png](https://github.com/sqirrel3/STELLA/blob/main/imgs/window-trajectory.png)" width="250"/>](window-trajectory.png)
 
 We introduce a new benchmark dataset STELLA (obSTaclE, occLusion and visibiLity constrAins) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent and non-transparent obstacles. The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. Both scenarios are captured using high resolution digital camera. The images are captured in a circular trajectory and each scenario contains 125 images.
 
