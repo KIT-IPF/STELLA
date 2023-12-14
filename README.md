@@ -13,3 +13,19 @@ The ground truth data in the form of a mesh with 0.1mm accuracy is obtained usin
 ### Citation
 
 `@Article{isprs-archives-XLVIII-1-W3-2023-153-2023, title={Geometric accuracy analysis between neural radiance fields (NeRFs) and Terrestrial Laser Scanning (TLS)}, author={Petrovska, I. and J\"ager, M. and Haitz, D. and Jutzi, B.}, year={2023}, journal={The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences}, volume= {XLVIII-1/W3-2023}, pages={153--159} }`
+
+```
+@inproceedings{nerfstudio,
+	title        = {Nerfstudio: A Modular Framework for Neural Radiance Field Development},
+	author       = {
+		Tancik, Matthew and Weber, Ethan and Ng, Evonne and Li, Ruilong and Yi, Brent
+		and Kerr, Justin and Wang, Terrance and Kristoffersen, Alexander and Austin,
+		Jake and Salahi, Kamyar and Ahuja, Abhik and McAllister, David and Kanazawa,
+		Angjoo
+	},
+	year         = 2023,
+	booktitle    = {ACM SIGGRAPH 2023 Conference Proceedings},
+	series       = {SIGGRAPH '23}
+}
+
+```
