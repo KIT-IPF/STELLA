@@ -8,7 +8,7 @@ We introduce a new benchmark dataset STELLA (obSTaclE, occLusion and visibiLity 
 
 The ground truth data in the form of a mesh with 0.1mm accuracy is obtained using Structured Light.
 
-[Petrovska. I]([https://tom94.net/](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/153/2023/))
+[Petrovska I.]([https://tom94.net/](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/153/2023/)
 
 ### Citation
 
