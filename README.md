@@ -8,7 +8,7 @@ We introduce a new benchmark dataset [STELLA](https://drive.google.com/drive/fol
  <img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/ground-truth-mesh.gif" width="330"/>
 </p>
 
-> [Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/153/2023/) (`<br>`)
+> [Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/153/2023/) <br />
 > **Ivana Petrovska and Boris Jutzi**
 
 ### Citation
