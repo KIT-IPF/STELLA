@@ -9,7 +9,7 @@ We introduce a new benchmark dataset [STELLA](https://drive.google.com/drive/fol
 </p>
 
 > [Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/153/2023/)
-**Ivana Petrovska and Boris Jutzi**
+> **Ivana Petrovska and Boris Jutzi**
 
 ### Citation
 ```
