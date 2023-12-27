@@ -23,4 +23,4 @@ We introduce a new benchmark dataset [STELLA](https://drive.google.com/drive/fol
 
 ```
 
-The provided data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The provided data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
