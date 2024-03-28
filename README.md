@@ -24,7 +24,6 @@ NUMBER = {7},
 ARTICLE-NUMBER = {1188},
 ISSN = {2072-4292}
 }
-
 ```
 
 The provided data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
