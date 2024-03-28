@@ -9,18 +9,17 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1cxkB6OB_vUk
  <img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/ground-truth-mesh.gif" width="250"/>
 </p>
 
-> [**Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)**](url) <br />
-> **XXX**
+> [**Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)**](https://www.mdpi.com/2072-4292/16/7/1188) <br />
+> **Ivana Petrovska and Boris Jutzi**
 
 ### Citation and License
 ```
-@inproceedings{x,
+@Article{rs16071188,
+	author       = {Petrovska, Ivana and Jutzi, Boris},
 	title        = {Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)},
-	author       = {XXX},
-	year         = xxxx,
-	booktitle    = {x},
-	series       = {x}
-}
+	journal      = {Remote Sensing},
+	year   	     = {2024},
+	}
 
 ```
 
