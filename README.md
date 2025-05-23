@@ -9,7 +9,12 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1cxkB6OB_vUk
  <img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/ground-truth-mesh.gif" width="250"/>
 </p>
 
+### Papers
+
 > [**Vision through obstacles - 3D geometric reconstruction and evaluation of Neural Radiance Fields (NeRFs)**](https://www.mdpi.com/2072-4292/16/7/1188) <br />
+> **Ivana Petrovska and Boris Jutzi**
+
+> [**Seeing beyond vegetation: A comparative occlusion analysis between Multi-View Stereo, Neural Radiance Fields and Gaussian Splatting for 3D reconstruction**](https://doi.org/10.1016/j.ophoto.2025.100089) <br />
 > **Ivana Petrovska and Boris Jutzi**
 
 ### Citation and License
