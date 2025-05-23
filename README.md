@@ -14,15 +14,26 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1cxkB6OB_vUk
 
 ### Citation and License
 ```
-@Article{rs16071188,
-AUTHOR = {Petrovska, Ivana and Jutzi, Boris},
-TITLE = {Vision through Obstacles—3D Geometric Reconstruction and Evaluation of Neural Radiance Fields (NeRFs)},
-JOURNAL = {Remote Sensing},
-VOLUME = {16},
-YEAR = {2024},
-NUMBER = {7},
-ARTICLE-NUMBER = {1188},
-ISSN = {2072-4292}
+@article{petrovska2024vision,
+  title={Vision through Obstacles—3D Geometric Reconstruction and Evaluation of Neural Radiance Fields (NeRFs)},
+  author={Petrovska, Ivana and Jutzi, Boris},
+  journal={Remote Sensing},
+  volume={16},
+  number={7},
+  pages={1188},
+  year={2024},
+  publisher={MDPI}
+}
+```
+
+```
+@article{petrovska2025seeing,
+  title={Seeing beyond vegetation: A comparative occlusion analysis between Multi-View Stereo, Neural Radiance Fields and Gaussian Splatting for 3D reconstruction},
+  author={Petrovska, Ivana and Jutzi, Boris},
+  journal={ISPRS Open Journal of Photogrammetry and Remote Sensing},
+  pages={100089},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
