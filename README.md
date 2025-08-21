@@ -2,6 +2,8 @@
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/no-obstacle-trajectory.png" width="260"/>](no-obstacle-trajectory.png)
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/window-trajectory.png" width="260"/>](window-trajectory.png)
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/vegetation-trajectory.png" width="260"/>](vegetation-trajectory.png)
+[<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/noflash-trajectory.png" width="260"/>](noflash-trajectory.png)
+[<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/flash-trajectory.png" width="260"/>](flash-trajectory.png)
 
 
 We introduce a new dataset [STELLA](https://drive.google.com/file/d/1laFWxQwwt7yZiZyeH97R7yT4p7gdVHk9/view?usp=sharing) (obSTaclE, occLusion and visibiLity constrAints) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent (*Window*), non-transparent (*Vegetation*) and semi-transparent (*General-Rain* and *Illuminated-Rain*) occlusions. For comparability we also include a scenario without visibility obstructions (*Original*). The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. The images are captured using high resolution digital camera in a circular trajectory and each scenario contains 125 images. Excluding certain image parts and investigating how different occlusion level affect the geometric reconstruction, we consider binary masks with different occlusion coverage. The ground truth data in the form of a mesh with 0.1mm accuracy is obtained using Structured Light.
