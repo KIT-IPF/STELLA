@@ -20,6 +20,9 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1laFWxQwwt7y
 > [**Seeing beyond vegetation: A comparative occlusion analysis between Multi-View Stereo, Neural Radiance Fields and Gaussian Splatting for 3D reconstruction**](https://doi.org/10.1016/j.ophoto.2025.100089) <br />
 > **Ivana Petrovska and Boris Jutzi**
 
+> [**Impact of Rain on 3D Reconstruction with Multi-View Stereo, Neural Radiance Fields and Gaussian Splatting**](https://doi.org/10.5194/isprs-annals-X-4-W6-2025-169-2025) <br />
+> **Ivana Petrovska and Boris Jutzi**
+
 ### Citation and License
 ```
 @article{petrovska2024vision,
@@ -42,6 +45,18 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1laFWxQwwt7y
   pages={100089},
   year={2025},
   publisher={Elsevier}
+}
+```
+
+```
+@article{petrovska2025impact,
+  title={Impact of Rain on 3D Reconstruction with Multi-View Stereo, Neural Radiance Fields and Gaussian Splatting},
+  author={Petrovska, Ivana and Jutzi, Boris},
+  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={10},
+  pages={169--176},
+  year={2025},
+  publisher={Copernicus GmbH}
 }
 ```
 
