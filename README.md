@@ -6,7 +6,7 @@
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/flash-trajectory.png" width="260"/>](flash-trajectory.png)
 
 
-We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxLwdm6A1X3fVWYbFryTZV2c/view?usp=drive_link) (obSTaclE, occLusion and visibiLity constrAints) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent (*Window*), non-transparent (*Vegetation*) and semi-transparent (*General-Rain* and *Illuminated-Rain*) occlusions captured uder diffuse and direct lighting. For comparability we also include a scenario without visibility obstructions (*Original*). Moreover, The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. The images are captured using high resolution digital camera in a circular trajectory and each scenario contains 125 images. Excluding certain image parts and investigating how different occlusion level affect the geometric reconstruction, we consider binary masks with different occlusion coverage. The ground truth mesh with 0.1mm accuracy is obtained using Structured Light.
+We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxLwdm6A1X3fVWYbFryTZV2c/view?usp=drive_link) (obSTaclE, occLusion and visibiLity constrAints) for image-based 3D reconstruction. The dataset consists of real-world challenging scenarios concerning transparent (glass), non-transparent (vegetation) and semi-transparent (rain) occlusions captured uder diffuse and direct lighting. For comparability we also include a scenario without visibility obstructions (*Original*). Moreover, The object behind obstacles is 0.7m tall Buddha statue placed on a rectangular plate. The images are captured using high resolution digital camera in a circular trajectory and each scenario contains 125 images. Excluding certain image parts and investigating how different occlusion level affect the geometric reconstruction, we consider binary masks with different occlusion coverage. The ground truth mesh with 0.1mm accuracy is obtained using Structured Light.
 
 <p align="center">
  <img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/ground-truth-mesh.gif" width="250"/>
@@ -26,7 +26,7 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxL
 > [**Novel View Synthesis Under Rainy Conditions with Neural Radiance Fields and Gaussian Splatting**](https://doi.org/10.5194/isprs-annals-XI-1-2026-17-2026) <br />
 > **Ivana Petrovska and Boris Jutzi**
 
-> [**SGS: Shadow-aware GAussian Splatting**](https://doi.org/10.1016/j.ophoto.2026.100151) <br />
+> [**SGS: Shadow-aware Gaussian Splatting**](https://doi.org/10.1016/j.ophoto.2026.100151) <br />
 > **Ivana Petrovska, Daniel Rebain, Lukas Winiwarter and Boris Jutzi**
 
 ### Citation and License
