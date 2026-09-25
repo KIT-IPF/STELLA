@@ -87,7 +87,6 @@ We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxL
   year={2026},
   publisher={Elsevier}
 }
-}
 ```
 
 The provided data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
