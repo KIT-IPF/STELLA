@@ -6,7 +6,7 @@
 [<img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/flash-trajectory.png" width="260"/>](flash-trajectory.png)
 
 
-We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxLwdm6A1X3fVWYbFryTZV2c/view?usp=drive_link) (obSTaclE, occLusion and visibiLity constrAints) for image-based 3D reconstruction behind occlusions. The dataset consists of real-world and synthetic challenging scenarios concerning transparent (glass), non-transparent (vegetation) and semi-transparent (rain) occlusions captured under diffuse and direct lighting. For comparability we also include a scenario without occlusions. Moreover, The object behind occlusions is 0.7m tall Buddha statue placed on a rectangular plate. The images are captured in a circular trajectory and each scene contains 125 images. The reference mesh is obtained using Structured Light.
+We introduce a new dataset [STELLA](https://drive.google.com/file/d/1W6-KVcHWlxLwdm6A1X3fVWYbFryTZV2c/view?usp=drive_link) (obSTaclE, occLusion and visibiLity constrAints) for image-based 3D reconstruction behind occlusions. The dataset consists of real-world and synthetic challenging scenes concerning transparent (glass), non-transparent (vegetation) and semi-transparent (rain) occlusions captured under diffuse and direct lighting. For comparability we also include a scene without occlusions. The object behind occlusions is 0.7m tall Buddha statue placed on a rectangular plate. The images are captured in a circular trajectory and each scene contains 125 images. The reference mesh is obtained using Structured Light.
 
 <p align="center">
  <img src="https://github.com/sqirrel3/STELLA/blob/main/imgs/ground-truth-mesh.gif" width="250"/>
